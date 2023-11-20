@@ -1,0 +1,15 @@
+{
+    "name": "nextgenswitch/nextgenswitch-php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "NextGenSwitch\\": "src/NextGenSwitch"
+        }
+    },
+    "authors": [
+        {
+            "name": "Infosoftbd Solution"
+        }
+    ],
+    "require": {}
+}
